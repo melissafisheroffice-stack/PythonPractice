@@ -16,5 +16,5 @@ By the end of this challenge I  hope to have a solid understanding of Python fun
 
 ## Where am I at?
 
-Days 1-12 (June 17th) I have completed a foundational course and covered variables, functions, arguments, conditionals, lists, loops, dictionaries and classes.
-Days 13+  I next plan to practice those topics further and start researching pytest (the python testing framework).
+* Days 1-12 (June 17th) I have completed a foundational course and covered variables, functions, arguments, conditionals, lists, loops, dictionaries and classes.
+* Days 13+  I next plan to practice those topics further and start researching pytest (the python testing framework).
