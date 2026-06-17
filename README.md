@@ -14,3 +14,7 @@ The goal isn't to become an expert in 90 days.  The goal is to build a daily hab
 
 By the end of this challenge I  hope to have a solid understanding of Python fundamentals, a collection of projects to look back on, and a much stronger foundation for whatever I learn next.
 
+## Where am I at?
+
+As of the 17th of June I am on day 12 of the challenge.
+
