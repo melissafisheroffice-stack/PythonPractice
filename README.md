@@ -18,3 +18,17 @@ By the end of this challenge I  hope to have a solid understanding of Python fun
 
 * Days 1-12 (June 17th) I have completed a foundational course and covered variables, functions, arguments, conditionals, lists, loops, dictionaries and classes.
 * Days 13+  I next plan to practice those topics further and start researching pytest (the python testing framework).
+
+## UI Tests using Playwright
+
+Install playwright in the terminal using the command: pip3 install playwright
+
+Install the pytest plugin that has helpful fixtures and command line options: pip3 install pytest-playwright
+
+Install the playwright browsers: python -m playwright install
+
+## API Testing
+
+Install requests.  See docs here: https://requests.readthedocs.io/en/latest/user/quickstart/
+
+
