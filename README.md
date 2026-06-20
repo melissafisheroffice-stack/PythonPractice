@@ -31,4 +31,8 @@ Install the playwright browsers: python -m playwright install
 
 Install requests.  See docs here: https://requests.readthedocs.io/en/latest/user/quickstart/
 
+## Run unit tests
+
+In the terminal use python3 -m pytest
+
 
