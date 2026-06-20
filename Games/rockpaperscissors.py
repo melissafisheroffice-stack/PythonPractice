@@ -1,13 +1,16 @@
 """
-Come back to this later to import random choices by the computer
+Import random statement at the top of the program
 
 """
+import random
 
 def playgame():
     player_choice = input("Player choice: ")
     options = ["rock", "paper", "scissors"]
-    computer_choice = input("Computer choice: ")
-    options = ["rock", "paper", "scissors"]
+    computer_choice = input(random.choice(options))
+    print("Thanks for playing")
 
 playgame()
+
+
 
