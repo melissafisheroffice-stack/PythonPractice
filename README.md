@@ -35,4 +35,8 @@ Install requests.  See docs here: https://requests.readthedocs.io/en/latest/user
 
 In the terminal use python3 -m pytest
 
+For a more detailed run use python -m pytest --verbose
+
+For a quieter console python -m pytest --quiet
+
 
