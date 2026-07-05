@@ -1,4 +1,5 @@
 # session is kept for the entire test run
+# can move fixtures in a confest.py file
 
 import pytest
 
